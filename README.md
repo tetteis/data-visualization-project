@@ -1,6 +1,6 @@
 # Data visualization project
 
-Solution for the data visualization project on [Learn JavaScript](https://learnjavascript.online) course. 
+Solution for the [Learn JavaScript](https://learnjavascript.online) data visualization project. 
 
 This is a Chart representing the **browser usage data in 2019**. I used **Chart.js** in this project.
 
